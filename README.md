@@ -1,4 +1,4 @@
-# Insurance-Claim-Fraud-Detection
+# IPL Data Analytics
 
 **Project video**
 
