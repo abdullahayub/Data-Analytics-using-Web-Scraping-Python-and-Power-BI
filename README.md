@@ -4,4 +4,4 @@
 
 **Project video**
 
-https://github.com/abdullahayub/Insurance-Claim-Fraud-Detection/assets/37545634/8bbf4cad-be73-4968-9659-73bd646caddf
+https://github.com/abdullahayub/Data-Analytics-using-Web-Scraping-Python-and-Power-BI/assets/37545634/3587618d-fda0-4e5e-8044-3b967edb4650
