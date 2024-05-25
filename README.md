@@ -9,3 +9,8 @@ https://github.com/abdullahayub/Data-Analytics-using-Web-Scraping-Python-and-Pow
 **Web Scraping using Bright Data**
 
 https://github.com/abdullahayub/Data-Analytics-using-Web-Scraping-Python-and-Power-BI/assets/37545634/67c6274c-bab2-4734-add9-be9226e7169e
+
+**Data Scraped from CricInfo Website**
+
+![img1](https://github.com/abdullahayub/Data-Analytics-using-Web-Scraping-Python-and-Power-BI/assets/37545634/90636dc6-8c83-4e8d-903e-e80dd1d88543)
+
