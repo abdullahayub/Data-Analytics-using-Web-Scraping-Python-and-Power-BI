@@ -5,3 +5,7 @@
 **Project video**
 
 https://github.com/abdullahayub/Data-Analytics-using-Web-Scraping-Python-and-Power-BI/assets/37545634/3587618d-fda0-4e5e-8044-3b967edb4650
+
+**Web Scraping using Bright Data**
+
+https://github.com/abdullahayub/Data-Analytics-using-Web-Scraping-Python-and-Power-BI/assets/37545634/67c6274c-bab2-4734-add9-be9226e7169e
